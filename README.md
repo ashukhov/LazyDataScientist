@@ -56,3 +56,32 @@ Das erste Textfeld beschreibt die Selektierung aller nötigen Variablen. Wenn ma
 Die ersten drei Ergebnisse werden im folgenden Screenshot angezeigt.
 
 ![image-20200818152153541](img/image-20200818152153541.png)
+
+## Exploration
+
+Im Tab ``Exploration`` können Variablen des Datensatzes ausgewählt werden und genauer analysiert werden. Hierzu wird ein Drag&Drop-Menü mit den entsprechenden Variablen generiert. 
+
+![image-20200910221934409](img/image-20200910221934409.png)
+
+Nachdem man die (numerischen) Variablen ausgewählt hat, tickt man die gewünschten Checkboxes für die Exploration an.
+
+![image-20200910223303989](img/image-20200910223303989.png)
+
+Daraufhin werden zwei Tabellen mit den Daten erstellt. Die zweite Tabelle zeigt den Code an, um diese Daten zu erhalten. Der Code wird jedoch so eine Tabelle nicht erstellen. Wie dies verläuft, kann man im Programm-Code nachsehen.
+
+![](img/image-20200910222526869.png)
+
+Anschließend gibt es hier noch ein Gif, welches den Prozess vorführt.
+
+![](img/exploration.gif)
+
+## Graphik
+
+
+
+## Regression
+
+## Normalverteilung Test
+
+## Hypothesen Testing
+
