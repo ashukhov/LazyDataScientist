@@ -7,7 +7,9 @@
 
 ## Programm
 
-Das Projekt Lazy Data Scientist ist entwickelt worden, um Studenten und R-Anfängern die Explorative Datenanalyse zu vereinfachen und einen angenehmen Anstieg in die Statistik mit R zu ermöglichen. Das Programm zeigt links eine Taskbar an. Diese besteht aus mehreren Tabs. Jeder Tab beschreibt eine andere Aufgabe der Analyse und zeigt damit andere Oberflächen.
+Das Projekt Lazy Data Scientist ist entwickelt worden, um Studenten und R-Anfängern die Explorative Datenanalyse zu vereinfachen und einen angenehmen Anstieg in die Statistik mit R zu ermöglichen.  Das Projekt ist mit R entwickelt worden und ist unter GNU GPLv3 lizensiert worden. Es besteht ein COPYING- sowie ein LICENSE-File, welche die Lizenz näher erklären.
+
+Das Programm zeigt links eine Taskbar an. Diese besteht aus mehreren Tabs. Jeder Tab beschreibt eine andere Aufgabe der Analyse und zeigt damit andere Oberflächen.
 
 ![image-20200818144622655](img/image-20200818144622655.png)
 
@@ -91,7 +93,33 @@ Hier ist ein Beispiel für ein Histogram. Die Variable ``Age`` muss in die y-Ach
 
 ## Regression
 
+![image-20200923214628664](img/image-20200923214628664.png)
+
+![image-20200923214643690](img/image-20200923214643690.png)
+
+![image-20200923214655232](img/image-20200923214655232.png)
+
+### Modell
+
+![image-20200923214844507](img/image-20200923214844507.png)
+
+![image-20200923214909095](img/image-20200923214909095.png)
+
+### Prädiktion
+
+![image-20200923214936205](img/image-20200923214936205.png)
+
 ## Normalverteilung Test
+
+![image-20200923215041294](img/image-20200923215041294.png)
+
+![image-20200923215005016](img/image-20200923215005016.png)
+
+![image-20200923215022262](img/image-20200923215022262.png)
+
+![image-20200923215102266](img/image-20200923215102266.png)
+
+![image-20200923215114623](img/image-20200923215114623.png)
 
 ## Hypothesen Testing
 
