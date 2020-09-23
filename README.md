@@ -77,7 +77,17 @@ Anschließend gibt es hier noch ein Gif, welches den Prozess vorführt.
 
 ## Graphik
 
+Im Graphik-Tab besteht ein Drag&Drop-Menü für die Bestimmung von Grafikeinstellungen. Die Variablen kann man auswählen, um die Achsen zu bestimmen. Mit den Colors können die Werte nach Kategorien farblich eingeteilt werden. Das heißt hier empfiehlt es sich, kategoriale Variablen (factor) zu verwenden. Das letzte Drop-Menü ist dafür Grafiken nach Kategorien zu trennen und mehrere Grafikfenster zu erstellen.
 
+![image-20200910223926984](img/image-20200910223926984.png)
+
+Hier kann man mittels Checkboxes die Grafiken bestimmen. Diese werden dann erstellt, anhand der vorigen Einstellungen. Unten kann man bestimmen, ob die Achsen logarithmisch skaliert werden sollen.
+
+![image-20200910223943826](img/image-20200910223943826.png)
+
+Hier ist ein Beispiel für ein Histogram. Die Variable ``Age`` muss in die y-Achse gezogen werden, weil es die einzige notwendige ist. Zusätzlich gibt es eine Beschreibung vom Plot und unter der Grafik befindet sich der Code für dieses Diagramm.
+
+![image-20200910224023745](img/image-20200910224023745.png)
 
 ## Regression
 
