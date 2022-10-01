@@ -32,7 +32,7 @@ library(dashboardthemes)
 library(DT)
 source("functions.R")
 
-ui <- dashboardPagePlus(skin="purple",
+ui <- dashboardPage(skin="purple",
     dashboardHeader(title = "Lazy Data Scientist"),
     dashboardSidebar(
         sidebarMenu(
@@ -417,7 +417,7 @@ ui <- dashboardPagePlus(skin="purple",
                     )
             )
 )),footer = dashboardFooter(
-    left_text = "Lazy Data Scientist 1.0 https://github.com/ashukhov-tgm/LazyDataScientist",
-    right_text = "Copyright (c) 2020 Arseniy Shukhov under GNU GPLv3 licence"
+    left = "Lazy Data Scientist 1.0 https://github.com/ashukhov-tgm/LazyDataScientist",
+    right = "Copyright (c) 2020 Arseniy Shukhov under GNU GPLv3 licence"
 )
 )
